@@ -34,6 +34,7 @@
 
 .user-pic.active-pic {
     border: 2px solid #ff7d3b;
+    background: red;
 }
 
 @keyframes moveup {
